@@ -2,7 +2,7 @@
 <p> Ainda em construcao aguarde por mais informacoes e estilizacoes</p>
 <p>https://peryclesreis.github.io/</p>
 
-## Introdução - Desenvolvimento Web :rocket:heavy_check_mark:
+## Introdução - Desenvolvimento Web: rocket: heavy_check_mark:
 
 ##### Requisitos 1: Construindo seu primeiro Portfólio Web!:heavy_check_mark:
 
