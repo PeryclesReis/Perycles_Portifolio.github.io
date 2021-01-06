@@ -1,6 +1,6 @@
 # PeryclesReis
 <p> Ainda em construcao aguarde por mais informacoes e estilizacoes</p>
-<p>https://peryclesreis.github.io/Perycles_Portifolio/</p>
+<p>https://peryclesreis.github.io/Perycles_Portifolio.github.io/</p>
 
 # Completado com Sucesso!:heavy_check_mark:
 
